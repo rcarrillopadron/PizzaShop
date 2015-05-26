@@ -15,8 +15,6 @@
     $("#output").text("Hello world from jQuery in WebStorm2!", validate, size, crust, toppings);
   }
 
-  var y = 0;
-
   $(document).ready(function () {
     displayTextToOutput("text", 4, true, "top");
   });
